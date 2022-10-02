@@ -8,3 +8,4 @@ The main aim of this Code is to provide rewards to stakers who stake in a "x" am
 ###  Mathematics behind the staking Rewards
  
 ![STAKING-REWARDS](https://user-images.githubusercontent.com/86551444/193462130-626ea164-511e-4f91-a8d1-1f5ba205ee4f.png)
+
